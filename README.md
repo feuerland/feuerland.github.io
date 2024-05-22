@@ -5,7 +5,7 @@ Dieses Regelwerk für Gloomhaven: Buttons & Bugs soll einfach zugänglich, durch
 
 Zuletzt aktualisiert: 22.05.2024
 
-Für mehr Infos, besuche einfach: <feuerland-spiele.de>
+Für mehr Infos, besuche einfach: [feuerland-spiele.de]
 
 © 2024 Feuerland
 
