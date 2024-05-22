@@ -1,11 +1,11 @@
 ###### Gloomhaven: Buttons & Bugs fluide Regeln  
 
 ---
-Diese X für Gloomhaven: Buttons & Bugs soll einfach zugänglich, durchsuchbar und ausdruckbar sein. Es wird mit Korrekturen aktualisiert.
+Dieses Regelwerk für Gloomhaven: Buttons & Bugs soll einfach zugänglich, durchsuchbar und ausdruckbar sein. Es wird mit Korrekturen aktualisiert.
 
 Zuletzt aktualisiert: 22.05.2024
 
-Für mehr Infos, besuche einfach: xxx 
+Für mehr Infos, besuche einfach: <feuerland-spiele.de>
 
 © 2024 Feuerland
 
